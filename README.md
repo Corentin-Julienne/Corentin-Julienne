@@ -18,18 +18,17 @@ Here are some ideas to get you started:
 
 [complete this]
 
-Currently a CS student at 42, an IT school based on project-based pedagogy (more information below).  
+Currently a CS student at 42, an IT school based on project-based pedagogy (more information below).
+
+[presentation to put here]
 
 Able to speak fluently and work in 🇬🇧English, 🇫🇷French and 🇪🇸Spanish.
 
-# 📫 How to reach me ?
----
+CV : [add this feature later]
 
-Connect with me on Linkedin : [add valid link]
+📬 : corentin.julienne92@gmail.com
 
-Download my CV from my Github Profile : [add this feature later]
-
-Reach me on my email : 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/corentin-julienne-260658146/)
 
 # 4️⃣2️⃣ My cursus at School 42
 ---
