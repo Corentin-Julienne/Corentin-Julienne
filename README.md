@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 # 👤 Presentation
 ---
 
-[complete this]
+CS student and Clinical Psychologist. Looking for a junior position as Software Engineer/Developer.
 
-Currently a CS student at 42, an IT school based on project-based pedagogy (more information below).
-
-[presentation to put here]
+Solid foundations in CS, with 15+ projects completed at School 42, including a Shell (C), a 3D Game Engine (C) and Web Server (C++). Highly motivated, passionate, autonomous, and able to learn new skills at a fast pace. 
 
 Able to speak fluently and work in 🇬🇧English, 🇫🇷French and 🇪🇸Spanish.
 
 CV : [add this feature later]
+
+Feel free to contact by mail or reach me on my LinkedIn profile :
 
 📬 : corentin.julienne92@gmail.com
 
@@ -32,8 +32,9 @@ CV : [add this feature later]
 
 # 4️⃣2️⃣ My cursus at School 42
 ---
+Schools 42 are part of a network of schools based on the realisation of projects to learn CS and development. 
 
-[complete this]
+More information about the 42 Network and my cursus at School 42 can be found here : [add repo name]
 
 # 🔭 Working on...
 ---
