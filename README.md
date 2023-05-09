@@ -32,9 +32,11 @@ Feel free to contact by mail or reach me on my LinkedIn profile :
 
 # 4️⃣2️⃣ My cursus at School 42
 ---
-Schools 42 are part of a network of schools based on the realisation of projects to learn CS and development. 
+Schools 42 are part of a network of schools based oon project completion to foster autonomy, teamwork, and the hability to never give up !. 
 
-More information about the 42 Network and my cursus at School 42 can be found here : [add repo name]
+Please feel free to check my projects [here](https://github.com/Corentin-Julienne/School42).  
+
+More information about the 42 Network and my cursus at School 42 can be found [here](https://github.com/Corentin-Julienne/School42).
 
 # 🔭 Working on...
 ---
