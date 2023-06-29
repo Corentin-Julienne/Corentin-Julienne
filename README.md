@@ -22,7 +22,7 @@ Solid foundations in CS, with 15+ projects completed at School 42, including a S
 
 Able to speak fluently and work in 🇬🇧English, 🇫🇷French and 🇪🇸Spanish.
 
-CV : [add this feature later]
+CV : https://cvdesignr.com/p/63e78ae288423
 
 Feel free to contact by mail or reach me on my LinkedIn profile :
 
