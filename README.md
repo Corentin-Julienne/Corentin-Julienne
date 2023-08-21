@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # 👤 Presentation
 ---
 
-CS student and Clinical Psychologist. Looking for a junior position as Software Engineer/Developer.
+Developer and Clinical Psychologist. Looking for a junior position as Software Engineer/Developer.
 
-Solid foundations in CS, with 15+ projects completed at School 42, including a Shell (C), a 3D Game Engine (C) and Web Server (C++). Highly motivated, passionate, autonomous, and able to learn new skills at a fast pace. 
+Solid foundations in CS, with 15+ projects completed at School 19 (42 Network), including a Shell (C), a 3D Game Engine (C), a Web Server (C++) and a Dynamic Website (Angular, NestJS, Tailwind CSS, Docker, PostgreSQL). Highly motivated, passionate, autonomous, and able to learn new skills at a fast pace. 
 
 Able to speak fluently and work in 🇬🇧English, 🇫🇷French and 🇪🇸Spanish.
 
@@ -54,7 +54,7 @@ Features :
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,ruby,rails,git,github,bash,vscode,vim,docker,nginx)](https://skillicons.dev)
 
-💻  Languages : C | C++ | html | CSS | JavaScript | Typescript | Ruby and Ruby on Rails | Bash <br>
+💻  Languages : C | C++ | html | CSS | JavaScript | Typescript | Ruby and Ruby on Rails | Bash | Angular | Tailwind CSS <br>
 🛠️  Tools     : Docker | Nginx <br>
 ⚙️   IDEs      : Visual Studio Code | Vim <br>
 
@@ -63,7 +63,6 @@ Features :
 
 [![My Skills](https://skillicons.dev/icons?i=react,nestjs,postgres)](https://skillicons.dev)
 
-- React
 - NestJS
 - PostgreSQL
 
