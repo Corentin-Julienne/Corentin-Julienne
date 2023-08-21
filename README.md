@@ -61,7 +61,7 @@ Features :
 # 🌱 I’m currently learning...
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=react,nestjs,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,postgres)](https://skillicons.dev)
 
 - NestJS
 - PostgreSQL
